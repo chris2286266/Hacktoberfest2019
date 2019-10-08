@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Chris Baumann
+- Location: Vienna, Austria
+- Bio: IT consulting, specialized in Blockchain Technologies
+- Github: https://github.com/chris2286266
+- Homepage: https://www4.baumann.at
+***
